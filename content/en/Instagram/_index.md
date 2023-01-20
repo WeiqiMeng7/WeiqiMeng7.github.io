@@ -5,46 +5,6 @@ type : nolisting
 toc: true
 ---
 
-# FLORIDA, Tampa & Miami, December 2022
-
-<div class="row">
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/florida/miamicloud.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/florida/miamikeywest.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/florida/miamitokeywest.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/florida/miamiwynwood.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/florida/miamiwynwoodfigure.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/florida/tampaclearwater.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/florida/tampacross.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/florida/tampariverwalk.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/florida/tampatoclearwater.jpg">}}
-</div>
-</div>
-
 # 狗子日常
 
 <div class="row">
