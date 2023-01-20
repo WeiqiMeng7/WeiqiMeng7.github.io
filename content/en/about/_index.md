@@ -55,11 +55,11 @@ Content: Participated in the relief of external disabilities caused by congenita
 2. Beijing Guangming Charity Foundation: the "Youth Star" title of the promotional activity of the Winter Olympic Games, "Passion, Ice and Snow, Building a Dream", March 19, 2022
 Content: During the Winter Olympic Games, I participated in the Winter Olympic knowledge publicity activities hosted by the Beijing Guangming Charity Foundation to help more people understand and enter the Winter Olympic Games, promote the Winter Olympic knowledge through the new media platform and invite more than 60 people to participate in the questionnaire knowledge survey to popularize the Winter Olympic knowledge.
 
-3. 全国新青年抗疫宣传活动组委会： 优秀志愿者 2022年2月
+3.全国新青年抗疫宣传活动组委会： 优秀志愿者 2022年2月
 内容：在新冠肺炎疫情反弹背景下，参与了全国新青年抗击疫情组委会主办的线上普及宣传抗击疫情的防护知识宣传活动，帮助中老年人群普及防疫知识，期间宣传效果明显，获优秀志愿者荣誉称号。
-
 3. Organizing Committee of National New Youth Antiepidemic Campaign: excellent volunteers, February 2022
 Content: Against the background of the rebound of the COVID-19, I participated in the online popularization and publicity of the protection knowledge against the epidemic organized by the National New Youth Anti epidemic Committee, helping the middle-aged and elderly people to popularize the knowledge of epidemic prevention. During this period, the publicity effect was obvious, and I was awarded the honorary title of excellent volunteer.
+
 
 ### Assistantships, Grants, and Awards
 
@@ -76,5 +76,5 @@ Content: Against the background of the rebound of the COVID-19, I participated i
 - 2017.09-20205.05 "Outstanding Student Scholarship" of Kunming University of Technology (**3 times for special class, 3 times for first class, and 1 time for outstanding talent**); "**Three good student pacesetters** (3 times)", "Excellent Communist Youth League member" honorary title; Winner of "Mathematical Modeling";
 - 2017.09-2020.01 The second prize of the "Huawei LED Design Competition" of the School of Electric Power Engineering; The second and third prizes of the team of "Sports Knowledge Competition";
 - 2021.07 Kunming University of Technology **Outstanding Graduates** in 2021, excellent graduation thesis;
-- From July 2022 to now, Central South University's **Star of Self-improvement Nomination Award** in 2021, **Third Prize in Mathematical Modeling** Provincial Contest and National Contest** (Team Leader), **National Scholarship** in 2021-2022, **First Prize Scholarship of Central South University**, etc;
+- From July 2022 to now, Central South University's **Star of Self-improvement Nomination Award in 2021,** Third Prize in Mathematical Modeling **Provincial Contest and National Contest** (Team Leader), **National Scholarship** in 2021-2022, **First Prize Scholarship of Central South University**, etc;
 
