@@ -1,101 +1,134 @@
-baseURL = "https://example.com/"
+baseURL = "https://WeiqiMeng7.github.io/"
 languageCode = "en-us"
-title = "Hugo-HT"
+title = "WeiqiMeng"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
+
 # enableGitInfo = true
 
 [permalinks]
 cn = "/cn/:year/:month/:day/:slug/"
 en = "/en/:year/:month/:day/:slug/"
-posts = "/posts/:year/:month/:day/:slug/"
+Blogs = "/Blogs/:year/:month/:day/:slug/"
 
 [[menu.en]]
     name = "Home"
     url = "/"
     weight = 1
 [[menu.en]]
-    name = "About"
+    name = "VC"
     url = "/en/about/"
     weight = 2
 [[menu.en]]
-    name = "Posts"
-    url = "/en/posts/"
-    weight = 3
+    name = "Publications"
+    url = "/en/publications/"
+    weight = 3 
+[[menu.en]]
+    name = "Notes&Projects"
+    url = "/en/Notes&Projects/"
+    weight = 4 
+[[menu.en]]
+    name = "Blogs"
+    url = "/en/Blogs/"
+    weight = 5
+[[menu.en]]
+    name = "Instagram"
+    url = "/en/Instagram"
+    weight = 6
 [[menu.en]]
     name = "中文"
-    url = "/cn/posts/"
-    weight = 4
+    url = "/cn/日志/"
+    weight = 7
+
+
 [[menu.cn]]
-    name = "关于"
-    url = "/cn/about/"
+    name = "简历"
+    url = "/cn/本科简历/"
     weight = 1
 [[menu.cn]]
-    name = "日志"
-    url = "/cn/posts/"
-    weight = 2
+    name = "刊物"
+    url = "/cn/刊物/"
+    weight = 2 
 [[menu.cn]]
-    name = "English"
+    name = "笔记&项目"
+    url = "/cn/笔记&项目/"
+    weight = 3 
+[[menu.cn]]
+    name = "关于"
+    url = "/cn/关于/"
+    weight = 4
+[[menu.cn]]
+    name = "日志"
+    url = "/cn/日志/"
+    weight = 5
+[[menu.cn]]
+    name = "照片墙"
+    url = "/cn/照片墙/"
+    weight = 6
+[[menu.cn]]
+    name = "英文"
     url = "/"
-    weight = 3
+    weight = 7
 
 [params]
     description = "Peronal website of Your Name"
     homeText = "You just need a Hugo blog from scratch"
     # Please make sure `blogDirNmae` matches the name used in `menu` above:
-    blogDirName = "posts"
+    blogDirName = "Blogs"
     # singleLang = true
     defaultLang = "en"
     MathJaxCDN = "//cdnjs.cloudflare.com/ajax/libs" 
     MathJaxVersion = "2.7.5"
-    favicon = "media/hugo-logo.png"
+    favicon = "image/Archiemeng1.png"
     # Edit by yourself:
-    GithubEdit = "https://github.com/USERNAME/REPONAME/edit/master/content/"
+    GithubEdit = "https://github.com/WeiqiMeng7/WeiqiMeng7.github.io/edit/master/content/"
     copyright = "&copy;"
-    copyrightYear = "2020-2021"
+    copyrightYear = "2021-2022"
     # Edit by yourself:
-    GithubRepo = "https://github.com/USERNAME/REPONAME"
+    GithubRepo = "https://github.com/WeiqiMeng7/WeiqiMeng7.github.io"
     # Edit by yourself:
-    ContentSource = "https://raw.githubusercontent.com/USERNAME/REPONAME/master/content/" 
+    ContentSource = "https://raw.githubusercontent.com/WeiqiMeng7/WeiqiMeng7.github.io/master/content/" 
 
 [params.logo]
+
   # Change the logo picture as your prefer:
-  url = "media/hugo-logo.png" # you can change it
+
+  url = "image/Archiemeng1.png"
   width = 50.0
   height = 50.0
-  alt = "Hugo-ht"
+  alt = "Archie-Meng"
 
 [params.lang]
 
     [params.lang.author]
-      en = "Your Name"
-      cn = "你的名字"
-
+      en = "Archie Meng"
+      cn = "孟小柒同学seven"
+    
     [params.lang.madeWith]
       en = "Made with"
       cn = "本站驱动"
-
+    
     [params.lang.edit]
       en = "Suggest an edit of this page"
       cn = "编辑本页"
-
+    
     [params.lang.lastupdate]
       en = "Last modified on"
       cn = "最后一次修改于"
-
+    
     [params.lang.Sitelastupdate]
       en = "Site last updated on"
       cn = "最近一次更新于"
-
+    
     [params.lang.sourceCode]
       en = "Content in"
       cn = "内容存于"
-
+    
     [params.lang.subscribe]
       en = "Subscribe"
       cn = "订阅"
-
+    
     [params.lang.license]
       en = "License"
       cn = "版权"
@@ -113,16 +146,16 @@ posts = "/posts/:year/:month/:day/:slug/"
     table = true
     taskList = true
     typographer = true
-
+    
     [markup.goldmark.parser]
     attribute = true
     autoHeadingID = true
-
+    
     [markup.goldmark.renderer]
     hardWraps = false
     unsafe = true
     xHTML = false
-  
+
   [markup.highlight]
     codeFences = true
     guessSyntax = false
