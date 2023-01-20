@@ -510,9 +510,5 @@ toc: true
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/志愿者合影.jpg">}}
 </div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/数模省赛三等奖.jpg">}}
-</div>
 </div>
 
