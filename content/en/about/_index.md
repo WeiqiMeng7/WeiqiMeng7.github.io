@@ -50,6 +50,7 @@ Nationality: Chinese
 1. China Siyuan Project Poverty Alleviation Foundation, Tianjin New Oxygen Public Welfare Foundation: "New Oxygen Beauty Plan" Guizhou volunteer activity March 1, 2022
 Content: Participated in the relief of external disabilities caused by congenital limbs, head and face birth defects and accidents, mainly participated in the relief of the poor families with low living standards/registered and registered medical records and other low-income families in Guizhou, and helped the poor people to seek medical treatment, complete their studies, improve their lives and return to normal life.
 
+
 2.北京市光明慈善基金会： “激情冰雪.筑梦同行”冬奥会宣传活动“青年之星”称号 2022年3月19日
 内容：在冬奥会举办期间，参与了北京市光明慈善基金会主办的冬奥知识宣传活动，帮助更多人了解并走进冬奥会，通过新媒体平台宣传冬奥知识并邀请60余人次参与问卷知识调查，普及冬奥知识。
 2. Beijing Guangming Charity Foundation: the "Youth Star" title of the promotional activity of the Winter Olympic Games, "Passion, Ice and Snow, Building a Dream", March 19, 2022
