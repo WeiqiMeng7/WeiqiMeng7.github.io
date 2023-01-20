@@ -4,7 +4,6 @@ title = "WeiqiMeng"
 theme = "hugo-ht"
 footnotereturnlinkcontents = "↩"
 enableRobotsTXT = true
-
 # enableGitInfo = true
 
 [permalinks]
@@ -102,7 +101,7 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
 [params.lang]
 
     [params.lang.author]
-      en = "Archie Meng"
+      en = "Weiqi Meng"
       cn = "孟小柒同学seven"
     
     [params.lang.madeWith]
