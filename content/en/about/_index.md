@@ -75,5 +75,5 @@ Content: Against the background of the rebound of the COVID-19, I participated i
 - 2017.09-20205.05 "Outstanding Student Scholarship" of Kunming University of Technology (**3 times for special class, 3 times for first class, and 1 time for outstanding talent**); "**Three good student pacesetters** (3 times)", "Excellent Communist Youth League member" honorary title; Winner of "Mathematical Modeling";
 - 2017.09-2020.01 The second prize of the "Huawei LED Design Competition" of the School of Electric Power Engineering; The second and third prizes of the team of "Sports Knowledge Competition";
 - 2021.07 Kunming University of Technology **Outstanding Graduates** in 2021, excellent graduation thesis;
-- From July 2022 to now, Central South University's **Star of Self-improvement Nomination Award** in 2021, **Third Prize in Mathematical Modeling** Provincial Contest and National Contest**(Team Leader), **National Scholarship** in 2021-2022, **First Prize Scholarship of Central South University**, etc;
+- From July 2022 to now, Central South University's **Star of Self-improvement Nomination Award** in 2021, **Third Prize in Mathematical Modeling **Provincial Contest and National Contest** (Team Leader), **National Scholarship** in 2021-2022, **First Prize Scholarship of Central South University**, etc;
 
