@@ -16,7 +16,7 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
     url = "/"
     weight = 1
 [[menu.en]]
-    name = "VC"
+    name = "CV"
     url = "/en/about/"
     weight = 2
 [[menu.en]]

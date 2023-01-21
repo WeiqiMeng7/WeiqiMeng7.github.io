@@ -1,5 +1,5 @@
 ---
-title: "发表刊物"
+title: "curriculum vitae (简历)"
 date: 2023-01-11T13:50:21+08:00
 type : list-single
 toc: true
@@ -15,7 +15,7 @@ If you don't want your name to appear on the commit, please contact me and I'll 
 中国
 
 Email: mengweiqi7@163.com\
-URL: [archiemeng7.github.io](https://achiemeng7.github.io/)
+URL: [weiqimeng7.github.io](https://weiqimeng7.github.io/)
 
 Born: 2000, Handan, Hebei Province, China\
 Nationality: Chinese
