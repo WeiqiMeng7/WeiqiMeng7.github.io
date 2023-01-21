@@ -83,7 +83,7 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
     # Edit by yourself:
     GithubEdit = "https://github.com/WeiqiMeng7/WeiqiMeng7.github.io/edit/master/content/"
     copyright = "&copy;"
-    copyrightYear = "2021-2022"
+    copyrightYear = "2022-2024"
     # Edit by yourself:
     GithubRepo = "https://github.com/WeiqiMeng7/WeiqiMeng7.github.io"
     # Edit by yourself:
