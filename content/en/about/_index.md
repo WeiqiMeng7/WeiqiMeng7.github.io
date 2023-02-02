@@ -21,11 +21,11 @@ Born: 2000, Handan, Hebei Province, China\
 Nationality: Chinese
 
 ### 教育背景
-- 2024(expected), M.A.  in Communication Studies, 中南大学, 中国
+- 2024(expected), M.A.  in Electrical Engineering, 中南大学, 中国
   - GPA: 3.68/4.00
   - Advisor: [Prof. Dongran Song](https://faculty.csu.edu.cn/songdongran1/zh_CN/index.htm) 
   - Relevant courses: 能源系统工程, 可再生能源发电技术, 智能学习, 现代电力系统分析.
-- 2021, B.A. in Communication, Kunming University of Science and Techenology, China
+- 2021, B.A. in Electrical Engineering and Automation, Kunming University of Science and Techenology, China
   - GPA: 3.91/4.00 
   - Advisor: [Prof. Bo Yang](https://pwee.kmust.edu.cn/info/1036/1143.htm)
   - Relevant courses: 电力系统分析, 电机学, 电力电子技术, 高电压技术, 继电保护, 电磁场理论.
@@ -65,18 +65,19 @@ Content: Against the background of the rebound of the COVID-19, I participated i
 
 ### Assistantships, Grants, and Awards
 
-- 2019.04-2019.05    全国大学生英语竞赛**国家三等奖**；全国大学生知识竞赛优秀奖 ；
 - 2017.09-2019.06    **云南省政府奖学金**（专业前1%）；**云南省“三好学生”**（专业前1%，2次）；
 - 2017.09-2020.05    昆明理工大学“优秀学生奖学金”（**特等3次、甲等3次、突出才艺1次**）；“**三好学生标兵**(3次)”、“优秀共青团员”荣誉称号；“数学建模”优胜奖；
+- 2019.04-2019.05    全国大学生英语竞赛**国家三等奖**；全国大学生知识竞赛优秀奖 ；
 - 2017.09-2020.01    电力工程学院“华为LED设计大赛”二等奖；“文体知识竞赛”团队二、三等奖；
 - 2021.07                   昆明理工大学2021年度**优秀毕业生**，优秀毕业论文；
-- 2022.07-至今          中南大学2021年度**自强之星提名奖**，数学建模**湖南省赛三等奖、华为杯国赛三等奖**（队长），2021-2022年度**国家奖学金**，中南大学**一等奖学金**， 中南大学**优秀学生、优秀党员、优秀共青团员**， 等等；
+- 2022.07-至今          **中南大学**2021年度**自强之星提名奖**，数学建模**华为杯国赛三等奖（队长）、湖南省赛三等奖（队长）**，**中南大学**2021-2022年度**国家奖学金**，中南大学**一等奖学金**， 中南大学**年度优秀学生、年度优秀党员、年度优秀共青团员**， 等等；
 
 
-- 2019.04-2019.05 National College English Competition **National Third Prize**; Excellent Award of National College Student Knowledge Competition;
+
 - 2017.09-2019.06 **Yunnan Provincial Government Scholarship** (top 1% of majors) **" Three Good Students" in Yunnan Province** (first 1% of majors, twice);
 - 2017.09-20205.05 "Outstanding Student Scholarship" of Kunming University of Technology (**3 times for special class, 3 times for first class, and 1 time for outstanding talent**); "**Three good student pacesetters** (3 times)", "Excellent Communist Youth League member" honorary title; Winner of "Mathematical Modeling";
+- 2019.04-2019.05 National College English Competition **National Third Prize**; Excellent Award of National College Student Knowledge Competition;
 - 2017.09-2020.01 The second prize of the "Huawei LED Design Competition" of the School of Electric Power Engineering; The second and third prizes of the team of "Sports Knowledge Competition";
 - 2021.07 Kunming University of Technology **Outstanding Graduates** in 2021, excellent graduation thesis;
-- From July 2022 to now, Central South University's **Star of Self-improvement Nomination Award in 2021,** Third Prize in Mathematical Modeling **Provincial Contest and National Contest** (Team Leader), **National Scholarship** in 2021-2022, Central South University **outstanding students, outstanding party members, outstanding Communist Youth League members**, and so on;
+- From July 2022 to now, Central South University's **Star of Self-improvement Nomination Award in 2021,** Third Prize in Mathematical Modeling **National Contest and Provincial Contest (Team Leader)**,Central South University's**National Scholarship** in 2021-2022, Central South University **outstanding students, outstanding party members, outstanding Communist Youth League members**, and so on;
 
