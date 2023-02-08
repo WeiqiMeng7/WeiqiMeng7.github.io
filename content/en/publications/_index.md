@@ -21,14 +21,15 @@ Born: 2000, Handan, Hebei Province, China\
 Nationality: Chinese
 
 ## 教育背景
-- 2024(expected), M.A.  in Communication Studies, 中南大学, 中国
+- 2024(expected), M.A.  in Electrical Engineering, 中南大学, 中国
   - GPA: 3.68/4.00
   - Advisor: [Prof. Dongran Song](https://faculty.csu.edu.cn/songdongran1/zh_CN/index.htm) 
   - Relevant courses: 能源系统工程, 可再生能源发电技术, 智能学习, 现代电力系统分析.
-- 2021, B.A. in Communication, Kunming University of Science and Techenology, China
+- 2021, B.A. in Electrical Engineering and Automation, Kunming University of Science and Techenology, China
   - GPA: 3.91/4.00 
   - Advisor: [Prof. Bo Yang](https://pwee.kmust.edu.cn/info/1036/1143.htm)
   - Relevant courses: 电力系统分析, 电机学, 电力电子技术, 高电压技术, 继电保护, 电磁场理论.
+
 
 
 ## 研究兴趣
