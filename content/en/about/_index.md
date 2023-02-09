@@ -81,3 +81,17 @@ Content: Against the background of the rebound of the COVID-19, I participated i
 - 2021.07 Kunming University of Technology **Outstanding Graduates** in 2021, excellent graduation thesis;
 - From July 2022 to now, Central South University's **Star of Self-improvement Nomination Award in 2021,** Third Prize in Mathematical Modeling **National Contest and Provincial Contest (Team Leader)**,Central South University's**National Scholarship** in 2021-2022, Central South University **outstanding students, outstanding party members, outstanding Communist Youth League members**, and so on;
 
+
+### Skills
+
+- Programming:
+  - Statistical Programming: MATLAB/Simulink, Gurobi, Yalmip, Python, Cplex.
+  - Others: Citespace, PR, C语言, Markdown.
+
+### Other Interests
+
+- Reading
+- Writing
+- Photography
+- Movies
+
