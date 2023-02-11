@@ -1,8 +1,8 @@
 ---
-title: "抒情摇滚：告五人3"
-date: 2023-02-06T14:28:09-05:00
-author: "孟维琦"
-slug: Music
+title: "学术：研究生必须知道的九个网站"
+date: 2023-02-12T14:28:09-05:00
+author: "孟维琦|孟小柒同学seven"
+slug: Academic
 draft: false
 toc: ture
 ---
