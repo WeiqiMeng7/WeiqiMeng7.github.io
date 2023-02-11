@@ -20,12 +20,12 @@ toc: true
 ”中查找到解决方案如下：</p><p>Then follow these steps to merge:</p><div class=highlight><pre style=-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java>git pull origin master
 </code></pre></div><p>注意以上代码，运行之后git会类似卡住，无法操作，Don&rsquo;t worry，只需将git关闭即可，之后再运行deploy命令：</p><div class=highlight><pre style=-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-html data-lang=html>bash deploy.sh
 </code></pre></div><p>即可正常部署，delete原Github库中的无用文件。</p><p><span style=display:block;text-align:left;color:purple><strong>总结：</strong></span>🙆其实，目前<strong>问题1</strong>和<strong>问题2</strong>本质上都是网络原因导致的，只能说采用对应的解决方法可以起到缓解作用，但是如果网速真的不行，两个解决办法不发挥作用，也正常，只能多试试了，或者错时段再部署。</p></li></ol><h2 id=如果有需要修改layout>如果有需要修改layout<a href=#如果有需要修改layout class=header-anchor arialabel=Anchor> #</a></h2><ol><li><p>我遇到的第一个需要修改的问题就是在搭建完网页之后，首页下方的评论中依然是郝鸿涛网页中的评论。这个原因是在<code>layouts</code> -> <code>partials</code> -> <code>footer.html</code> 里用的是他的 repo，这里需要把这行链接换成自己的。</p></li><li><p>方便增加图片的方法：</p><p>可以在<code>static</code> （static放在根目录下即可）中新建一个文件夹， 比如image或者picture之类的，挑自己喜欢的名字。之后再加入图片的话可以在帖子中这样加：</p><div class=highlight><pre style=-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-java data-lang=java><span style=color:#666>{{</span>figure src<span style=color:#666>=</span> <span style=color:#ba2121>&#34;/images/image.jpg&#34;</span> title <span style=color:#666>=</span> <span style=color:#ba2121>&#34;blablabla&#34;</span> caption <span style=color:#666>=</span> <span style=color:#ba2121>&#34;blablabla&#34;</span> width <span style=color:#666>=</span> <span style=color:#ba2121>&#34;xxx&#34;</span><span style=color:#666>}}</span>
-</code></pre></div><p>2.1 增加图片的方法也可以参考<strong>图床</strong>的方式实现，本质原理是将复制的图片上传到Github的repository中，通过图床平台生成Md外链，直接调用显示，超级超级方便，直接复制图片上传图床生成外链，复制外链到日志相应位置即可（详细检索即可查到教程，推荐<strong>Picx图床神器</strong>）。</p><p><strong>流程如下：</strong></p><pre><code class=language-mermaid data-lang=mermaid>graph LR;
+</code></pre></div><p>2.1 增加图片的方法也可以参考<strong>图床</strong>的方式实现，本质原理是将复制的图片上传到Github的repository中，通过图床平台生成Md外链，直接调用显示，超级超级方便，直接复制图片上传图床生成外链，复制外链到日志相应位置即可（详细检索即可查到教程，推荐<strong>Picx图床神器</strong>[^Picx图床设置]）</p><p>。</p><p><strong>流程如下：</strong></p><pre><code class=language-mermaid data-lang=mermaid>flowchart LR;
 A((复制需要使用的图片Ctrl+C)) --&gt;|Copy| B(设定的图床平台,并直接上传Ctrl+V)
 B --&gt; C{图床外链https}
 C --&gt;|One| D[复制外链到.md文件中]
 C --&gt;|Two| E[其他支持md语言的文件中,Eg:Obsidian等]
-</code></pre></li><li><p>需要修改Logo</p><p>在建完网站后，网站默认的是左上角的Hugo-logo，但是可能我们并不喜欢。这时需要找到文件夹themes—>static—>media，并找到其中的Hugo-logo.png。这时你需要自己建一个新的png（保证透明底，可以使用APP<strong>醒图</strong>操作）的文件，即设计一个你自己的logo。我打开photoshop然后随便画了个自己的。</p><p>然后把config.toml文件中params中的favicon中的hugo-logo.png改为你新建的这个png文件。params.logo这里同步改。</p></li><li><p>需要修改网站的名字</p><p>依然是在params.logo这里，修改alt这行</p><p>高级绘图：</p><pre><code class=language-mermaid data-lang=mermaid>gantt
+</code></pre></li><li><p>需要修改Logo</p><p>在建完网站后，网站默认的是左上角的Hugo-logo，但是可能我们并不喜欢。这时需要找到文件夹themes—>static—>media，并找到其中的Hugo-logo.png。这时你需要自己建一个新的png（保证透明底，可以使用APP<strong>醒图</strong>操作）的文件，即设计一个你自己的logo。我打开photoshop然后随便画了个自己的。</p><p>然后把config.toml文件中params中的favicon中的hugo-logo.png改为你新建的这个png文件。params.logo这里同步改。</p></li><li><p>需要修改网站的名字</p><p>依然是在params.logo这里，修改alt这行</p></li><li><p>高级绘图示例：</p><pre><code class=language-mermaid data-lang=mermaid>gantt
    
 dateFormat YYYY-MM-DD
 title 开发计划
@@ -46,6 +46,25 @@ section 开发
 section 测试
   测试用例与玩耍:active,test,2021-06-25,10d
   开始测试部分接口:crit,start-test,after test,11d
+</code></pre><pre><code class=language-mermaid data-lang=mermaid>  pie
+        title 今天晚上吃什么？
+        &quot;火锅&quot; : 8
+        &quot;外卖&quot; : 60
+        &quot;自己煮&quot; : 8
+        &quot;海底捞&quot; : 9
+        &quot;海鲜&quot; : 5
+        &quot;烧烤&quot; : 5
+        &quot;不吃&quot; : 5
+</code></pre><pre><code class=language-mermaid data-lang=mermaid>journey
+    title 我的一天
+    section 早上
+      吃饭: 5: Me,Her
+      跑步: 3: Me
+    section 工作时间
+       坐地铁到公司: 5 :Me
+       上班: 1:Me
+    section 晚上
+      睡觉: 5: Me,Her
 </code></pre></li></ol><p style=color:#777>最后一次修改于 2022-05-11</p></div><a href=#top><i class="fa fa-chevron-up" style=font-size:30px;color:#000></i></a></main><footer class=footer><script src=https://utteranc.es/client.js repo=WeiqiMeng7/WeiqiMeng7.github.io issue-term=pathname label=#Commit theme=github-light crossorigin=anonymous async></script><script type=text/javascript src=/js/math-code.js></script><script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script><script type=text/javascript src=/js/center-img.js></script><ul class=footer-links><li><a href=/cn/Blogs/index.xml type=application/rss+xml title="RSS feed">订阅</a></li><li><a href=http://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh target=_blank>版权
 <i class="fa fa-cc" aria-hidden=true title="Attribution-NonCommercial-ShareAlike 4.0 International"></i></a></li></ul><div class=copyright-text>©
 孟小柒同学seven
