@@ -123,11 +123,7 @@ xcode-select --install
    {{figure src= "/images/image.jpg" title = "blablabla" caption = "blablabla" width = "xxx"}}
    ```
 
-   2.1 增加图片的方法也可以参考**图床**的方式实现，本质原理是将复制的图片上传到Github的repository中，通过图床平台生成Md外链，直接调用显示，超级超级方便，直接复制图片上传图床生成外链，复制外链到日志相应位置即可（详细检索即可查到教程，推荐**Picx图床神器**[^Picx图床设置]）
-
-   [Picx图床设置]: https://picx-docs.xpoet.cn/tutorial/get-start.html#%E8%BF%9B%E8%A1%8C%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE
-
-   。
+   2.1 增加图片的方法也可以参考**图床**[^Picx图床神器]的方式实现，本质原理是将复制的图片上传到Github的repository中，通过图床平台生成Md外链，直接调用显示，超级超级方便，直接复制图片上传图床生成外链，复制外链到日志相应位置即可（详细检索即可查到教程，推荐[**Picx图床神器**](https://picx-docs.xpoet.cn/tutorial/get-start.html#%E8%BF%9B%E8%A1%8C%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE)）。
 
    **流程如下：**
 
@@ -138,9 +134,9 @@ xcode-select --install
    C -->|One| D[复制外链到.md文件中]
    C -->|Two| E[其他支持md语言的文件中,Eg:Obsidian等]
    ```
-
    
-
+   
+   
 3. 需要修改Logo
 
    在建完网站后，网站默认的是左上角的Hugo-logo，但是可能我们并不喜欢。这时需要找到文件夹themes—>static—>media，并找到其中的Hugo-logo.png。这时你需要自己建一个新的png（保证透明底，可以使用APP**醒图**操作）的文件，即设计一个你自己的logo。我打开photoshop然后随便画了个自己的。
@@ -216,3 +212,6 @@ xcode-select --install
       
       
 
+
+
+[^Picx图床神器]: https://picx-docs.xpoet.cn/tutorial/get-start.html#%E8%BF%9B%E8%A1%8C%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE
