@@ -15,7 +15,7 @@ toc: true
 
 由于期刊出版模式、语言等问题，外文期刊全文、文摘数据库和学术网站对很多人来说，都不是太友好。今天的日志给研究生和处于学术研究职业生涯早期的朋友们分享《发表SSCI/SCI论文需要知道的10个网站或数据库》。说明：这些全文数据库和网站仅仅是我自己觉得需要知道的网站，由于学科差异，更多的外文期刊全文数据库和网站欢迎大家补充。
 
-# 一、Web of Science (SCI&SSCI)
+## 一、Web of Science (SCI&SSCI)
 
 通过该文摘数据库，可以检索到被SCI&SSCI索引的文献，如果单位购买了其他的全文数据库（Elsevier、Wiley、Springer、Emerald、Wily、SAGE等）可以直接跳转到全文数据库下载全文。此外，还可以通过该数据库查询期刊是否被SCI&SSCI收录、影响因子等，为投稿前的确认期刊信息提供支持。
 
@@ -31,7 +31,7 @@ toc: true
 
 发行商: Clarivate Analytics
 
-# 二、ORCID网站
+## 二、ORCID网站
 
 ORCID（Open Researcher and Contributor ID），ORCID代表开放研究员和贡献者ID，是一个全球性的非营利组织，由我们的成员组织提供费用，个人可以免费注册。我们建立了社区，并由代表我们会员的董事会管理，并有广泛的利益相关者代表。ORCID拥有一支敬业、知识渊博的专业员工队伍。（ORCID, which stands for Open Researcher and Contributor ID, is a global, not-for-profit organization sustained by fees from our member organizations.  We are community-built and governed by a Board of Directors representative of our membership with wide stakeholder representation.  ORCID is supported by a dedicated and knowledgeable professional staff.）注册后，可以发布自己的学术简历，然后形成自己专属的外文简历地址。官网如图1所示。
 
@@ -47,7 +47,7 @@ ORCID（Open Researcher and Contributor ID），ORCID代表开放研究员和贡
 
 资料来源：根据ORCID官网+网络资料整理。
 
-# 三、Researcher ID
+## 三、Researcher ID
 
 Researcher ID与ORCID是两大最重要的作者身份识别系统，他们的目标是解决作者重名的问题。目前，他们之间在作者列表数据上面已经实现了互联互通以及互相导入导出。
 
@@ -59,7 +59,7 @@ Researcher ID提供全球每位学术研究社群成员一个专属的身份识�
 
 资料来源：根据web of science官网+网络资料整理。
 
-# 四、ResearchGate（全球科研学术交流平台）
+## 四、ResearchGate（全球科研学术交流平台）
 
 该网站是一个免费分享和交流的网站，许多科研工作者将自己的成果上传到该网站（有版权问题的除外，也会有国外的出版集团警告作者不能将成果设置为公开访问，但可以站内写信向作者索取，用于个人学习）。
 
@@ -73,7 +73,7 @@ ResearchGate于2008年由Ijad Madisch博士和Sóren Hofmayer博士以及计算�
 
 资料来源：根据ResearchGate官网整理。
 
-# 五、Elsevier ScienceDirect全文数据库
+## 五、Elsevier ScienceDirect全文数据库
 
 访问地址:   http://www.sciencedirect.com/
 
@@ -89,7 +89,7 @@ ResearchGate于2008年由Ijad Madisch博士和Sóren Hofmayer博士以及计算�
 
 资料来源：根据苏州大学图书馆网站整理。
 
-# 六、Emerald全文数据库
+## 六、Emerald全文数据库
 
 访问地址:   http://www.emeraldinsight.com/
 
@@ -105,7 +105,7 @@ ResearchGate于2008年由Ijad Madisch博士和Sóren Hofmayer博士以及计算�
 
 资料来源：苏州大学图书馆
 
-# 七、SAGE全文数据库
+## 七、SAGE全文数据库
 
 访问地址：http://sage.cnpereading.com/
 
@@ -121,7 +121,7 @@ ResearchGate于2008年由Ijad Madisch博士和Sóren Hofmayer博士以及计算�
 
 资料来源：苏州大学图书馆
 
-# 八、SpringerLink
+## 八、SpringerLink
 
 访问地址:   http://link.springer.com/
 
@@ -133,7 +133,7 @@ ResearchGate于2008年由Ijad Madisch博士和Sóren Hofmayer博士以及计算�
 
 资料来源：苏州大学图书馆
 
-# 九、Wiley InterScience全文数据库
+## 九、Wiley InterScience全文数据库
 
 访问地址:   http://www.wileyonlinelibrary.com
 
@@ -147,7 +147,7 @@ ResearchGate于2008年由Ijad Madisch博士和Sóren Hofmayer博士以及计算�
 
 资料来源：苏州大学图书馆
 
-# 十、外文名称:  EI / INSPEC - Engineering Village2
+## 十、外文名称:  EI / INSPEC - Engineering Village2
 
 访问地址:   http://www.engineeringvillage.com
 
