@@ -123,12 +123,16 @@ xcode-select --install
    {{figure src= "/images/image.jpg" title = "blablabla" caption = "blablabla" width = "xxx"}}
    ```
 
-   2.1 增加图片的方法也可以参考**图床**的方式实现，本质原理是将复制的图片上传到Github的repository中，通过图床平台生成Md外链，直接调用显示，超级超级方便，直接复制图片上传图床生成外链，复制外链到日志相应位置即可（详细检索即可查到教程，推荐**Picx图床神器**）。
+   2.1 增加图片的方法也可以参考**图床**的方式实现，本质原理是将复制的图片上传到Github的repository中，通过图床平台生成Md外链，直接调用显示，超级超级方便，直接复制图片上传图床生成外链，复制外链到日志相应位置即可（详细检索即可查到教程，推荐**Picx图床神器**[^Picx图床设置]）
+
+   [Picx图床设置]: https://picx-docs.xpoet.cn/tutorial/get-start.html#%E8%BF%9B%E8%A1%8C%E5%9B%BE%E5%BA%8A%E9%85%8D%E7%BD%AE
+
+   。
 
    **流程如下：**
 
    ```mermaid
-   graph LR;
+   flowchart LR;
    A((复制需要使用的图片Ctrl+C)) -->|Copy| B(设定的图床平台,并直接上传Ctrl+V)
    B --> C{图床外链https}
    C -->|One| D[复制外链到.md文件中]
@@ -149,8 +153,8 @@ xcode-select --install
 
       依然是在params.logo这里，修改alt这行
 
-      高级绘图：
-      
+4. 高级绘图示例：
+
       ```mermaid
       gantt
       
@@ -175,7 +179,40 @@ xcode-select --install
       	开始测试部分接口:crit,start-test,after test,11d
       ```
       
+      ```mermaid
+      	pie
+              title 今天晚上吃什么？
+              "火锅" : 8
+              "外卖" : 60
+              "自己煮" : 8
+              "海底捞" : 9
+              "海鲜" : 5
+              "烧烤" : 5
+              "不吃" : 5
+      ```
       
-
-
+      
+      
+      
+      
+      
+      
+      ```mermaid
+      journey
+          title 我的一天
+          section 早上
+            吃饭: 5: Me,Her
+            跑步: 3: Me
+          section 工作时间
+             坐地铁到公司: 5 :Me
+             上班: 1:Me
+          section 晚上
+            睡觉: 5: Me,Her
+      ```
+      
+      
+      
+      
+      
+      
 
