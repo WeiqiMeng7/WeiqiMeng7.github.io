@@ -1,5 +1,5 @@
 ---
-title: "研究生发表SSCISCI论文需要知道的10个网站或数据库"
+title: "Publish Paper"
 date: 2023-02-12T14:28:09-05:00
 author: "孟维琦|孟小柒同学seven"
 slug: Academic
