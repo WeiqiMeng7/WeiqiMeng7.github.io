@@ -85,12 +85,13 @@ Content: Against the background of the rebound of the COVID-19, I participated i
 ### Skills
 
 - Programming:
-  - Statistical Programming: MATLAB/Simulink, Gurobi, Yalmip, Python, Cplex.
+  - Statistical Programming: MATLAB/Simulink, Gurobi, Yalmip, Python, Cplex, GAMS.
   - Others: Citespace, PR, C语言, Markdown.
 
 ### Other Interests
 
 - Reading
+- Spoken English
 - Writing
 - Photography
 - Movies
