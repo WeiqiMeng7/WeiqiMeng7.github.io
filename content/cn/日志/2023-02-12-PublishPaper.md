@@ -1,11 +1,12 @@
 ---
-title: "记录：论文发表"
-date: 2023-02-12T17:07:45-05:00
+title: "抒情摇滚：告五人3"
+date: 2023-02-06T14:28:09-05:00
 author: "孟维琦"
-slug: 学术
+slug: Music
 draft: false
-toc: true
+toc: ture
 ---
+
 
 {{<block class="reminder">}}
 文字参考自科学网博客[徐芳](https://blog.sciencenet.cn/blog-3530069-1375331.html)，侵删！
