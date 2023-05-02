@@ -57,8 +57,9 @@ xcode-select --install
    ②：尽量在Typora的非源代码模式上直接编辑（可以直接使用Typora上的![孟小柒同学seven-图床图片-image](https://cdn.staticaly.com/gh/Archiemeng7/ARCHIE_personal-space-2022-2024@main/图床图片/孟小柒同学seven-图床图片-image.yngg8ivwy2o.png)操作排版)，当然打开源代码模式也行（如果你很了解Markdown代码语言)，但是某个小的操作可能会导致出现莫名其妙的Bug（开发者模式功能大，但是犯错几率也高😠)，当然出现的几率小，但遇到那种问题就很恼火。具体怎么个模式个人而定吧！
 
    ③：
-
-
+7. Action出现Quened的时候，需要更新一天多会报错{deploy This request was automatically failed because there were no enabled runners online to process the request for more than 1 days. *github pages*: .github#L1
+The ubuntu-18.04 environment is deprecated, consider switching to ubuntu-20.04(ubuntu-latest), or ubuntu-22.04 instead. For more details see https://github.com/actions/virtual-environments/issues/6002}
+;解决办法：更改Workflow文件，{Workflows using the ubuntu-18.04 image label should be updated to ubuntu-latest, ubuntu-20.04, or ubuntu-22.04}，打开{gh-pages.yml}中直接改。
 
 ## 在set和deploy中需要注意
 
