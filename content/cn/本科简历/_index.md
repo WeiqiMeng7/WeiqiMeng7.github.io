@@ -12,6 +12,11 @@ toc: true
 </div>
 </div>
 
+
+## 研究生简历
+[github repository](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/孟维琦简历02.pdf) | data | pdf
+
+
 >网站：{{< youtube RB454PsZqZ0 >}}.标题：艾薇儿再唱《Girlfriend》【2022 B站跨年晚会|4K】
 
 {{< youtube RB454PsZqZ0 >}}
