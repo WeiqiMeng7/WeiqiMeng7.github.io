@@ -95,6 +95,15 @@ toc: true
 
 #麓南青年讲述青春奋斗故事# “五四”来临之际，中南大学自动化学院举办特别活动——“青春向党·麓南青年说”第三季，五位麓南青年齐聚岳麓山下，讲述他们的青春奋斗故事，展现青年一代坚定信念、砥砺奋斗、勇于创新、敢于斗争的青春风采！[努力]
 
+
+### 学习强国
+1.沙学习平台
+
+[校园风采丨中南学子讲述青春奋斗故事](https://article.xuexi.cn/articles/index.html?art_id=5243526570859421036&item_id=5243526570859421036&cdn=https%3A%2F%2Fregion-hunan-resource&study_style_id=video_default&pid=&ptype=-1&source=share&share_to=wx_feed)
+
+
+
+
 ### 省媒报道
 
 1.掌上长沙
