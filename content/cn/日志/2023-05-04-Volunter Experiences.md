@@ -97,26 +97,29 @@ toc: true
 
 
 ### 学习强国
-1.沙学习平台
+1.长沙学习平台
 
 [校园风采丨中南学子讲述青春奋斗故事](https://article.xuexi.cn/articles/index.html?art_id=5243526570859421036&item_id=5243526570859421036&cdn=https%3A%2F%2Fregion-hunan-resource&study_style_id=video_default&pid=&ptype=-1&source=share&share_to=wx_feed)
 
 
 
-
 ### 省媒报道
 
-1.掌上长沙
+1.人民日报
+
+[“青春向党·麓南青年说”第三季在中南大学开讲](https://wap.peopleapp.com/article/rmh35509772/rmh35509772)
+
+2.掌上长沙
 [“青春向党·麓南青年说”第三季开讲 中南学子讲述青春奋斗故事](https://www.icswb.com/h/100104/20230504/812654_m.html),
 [中南学子讲述青春奋斗故事](https://m.baidu.com/video/page?pd=video_page&nid=4182390573286536288&sign=3013284685766079933&word=%E6%B9%96%E5%8D%97%E6%97%A5%E6%8A%A5+%E9%BA%93%E5%8D%97%E9%9D%92%E5%B9%B4%E8%AF%B4&oword=%E6%B9%96%E5%8D%97%E6%97%A5%E6%8A%A5+%E9%BA%93%E5%8D%97%E9%9D%92%E5%B9%B4%E8%AF%B4&atn=index&frsrcid=48304&ext=%7B%22jsy%22%3A1%7D&top=%7B%22sfhs%22%3A1%2C%22_hold%22%3A2%7D&fr0=A&fr1=A&ms=1&lid=7842458644560695384&referlid=7842458644560695384&frorder=8&_t=1683211457007)
 
-2.湖南省人民政府
+3.湖南省人民政府
 [重温五四精神 激发奋进力量——湖南省各高校开展多样活动庆祝五四青年节](http://www.hunan.gov.cn/hnszf/hnyw/zwdt/202305/t20230505_29329069.html)
 
-3.湖南日报新媒体
+4.湖南日报新媒体
 [重温五四精神，激励奋进力量！湖南各高校开展多样活动庆祝五四青年节](https://m.voc.com.cn/xhn/news/202305/17994563.html)
 
-4.华声在线
+5.华声在线
 [重温五四精神 激发奋进力量——湖南各高校开展多样活动庆祝五四青年节](https://hunan.voc.com.cn/article/202305/202305050714337508.html)
 
 
