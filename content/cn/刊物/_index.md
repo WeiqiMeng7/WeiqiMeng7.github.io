@@ -33,7 +33,7 @@ Nationality: Chinese
 
 
 ## 研究兴趣
-能源系统优化, 电力市场, 电动汽车, 运筹优化, 数学求解器, 智能算法, MATLAB/simulink
+能源系统优化, 电力市场, 电动汽车, 运筹优化, 数学求解器, 智能算法, MATLAB/Simulink
 
 ## 发表物 & 会议
 ### 期刊论文
@@ -41,11 +41,14 @@ Nationality: Chinese
 2. **W. Meng**, D. Song, X. Deng, M. Dong, J. Yang, R.M. Rizk-Allah, et al. Dynamic Optimal Power Flow of Active Distribution Network Based on LSOCR and Its Application Scenarios. Electronics. 12 (2023) 1530.[*Electronics收录原文*](https://www.mdpi.com/2211860). 
 [*微信推文分享*](https://mp.weixin.qq.com/s/0gndUcVSP0wgPOLVeHFV7w).
 [期刊收录证书](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/Acceptance-Certificate-electronics-2241628.pdf).
-3.One paper Under Reviewing...
-4.One paper Under Writing...
-
+3. One paper Under Reviewing...
+4. One paper Under Writing...
 
 ### 会议论文
-2. 赵燃,杨建,宋冬然,**孟维琦**,常青,王力. 考虑风电不确定性的风火储能源系统鲁棒优化调度研究[C]//.2021*中国自动化大会论文集*,2021:489-494.DOI:10.26914/c.cnkihy.2021.053552.[会议原文](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/考虑风电不确定性的风火储能源系统鲁棒优化调度研究_赵燃.pdf). 
-3. **孟维琦**,宋冬然,郭达辉,刘笑. 国家层面综合能源系统建模工具及方法综述[C]//.2022*中南大学第二节交叉学科研究生创新论坛工业智能化分论坛粘贴论文集*,2021. [*海报原文*](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/中南大学+2021级+硕士生+孟维琦+13371191243+电气工程+工业智能.pdf).
+
+
+
+1.赵燃,杨建,宋冬然,**孟维琦**,常青,王力. 考虑风电不确定性的风火储能源系统鲁棒优化调度研究[C]//.2021*中国自动化大会论文集*,2021:489-494.DOI:10.26914/c.cnkihy.2021.053552.[会议原文](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/考虑风电不确定性的风火储能源系统鲁棒优化调度研究_赵燃.pdf). 
+
+2.**孟维琦**,宋冬然,郭达辉,刘笑. 国家层面综合能源系统建模工具及方法综述[C]//.2022[中南大学第二届交叉学科研究生创新论坛工业智能化分论坛粘贴论文集](https://soa.csu.edu.cn/info/1032/5193.htm),2021. [*海报原文*](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/中南大学+2021级+硕士生+孟维琦+13371191243+电气工程+工业智能.pdf).
 
