@@ -48,9 +48,15 @@ Nationality: Chinese
 
 
 ### 会议论文
-1.赵燃,杨建,宋冬然,**孟维琦**,常青,王力. 考虑风电不确定性的风火储能源系统鲁棒优化调度研究[C]//.2021*中国自动化大会论文集*,2021:489-494.DOI:10.26914/c.cnkihy.2021.053552.[会议原文](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/考虑风电不确定性的风火储能源系统鲁棒优化调度研究_赵燃.pdf). 
 
-2.**孟维琦**,宋冬然,郭达辉,刘笑. 国家层面综合能源系统建模工具及方法综述[C]//.2022[中南大学第二届交叉学科研究生创新论坛工业智能化分论坛粘贴论文集](https://soa.csu.edu.cn/info/1032/5193.htm),2021. [*海报原文*](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/中南大学+2021级+硕士生+孟维琦+13371191243+电气工程+工业智能.pdf).
+
+1.孟维琦, etc...，清华大学-IET电气工程学术论坛“清华大学博士生学术论坛”，海报论文，[会议原文](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/海报_孟维琦_eeaf_20230405001.pdf). 
+
+
+2.赵燃,杨建,宋冬然,**孟维琦**,常青,王力. 考虑风电不确定性的风火储能源系统鲁棒优化调度研究[C]//.2021*中国自动化大会论文集*,2021:489-494.DOI:10.26914/c.cnkihy.2021.053552.[会议原文](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/考虑风电不确定性的风火储能源系统鲁棒优化调度研究_赵燃.pdf). 
+
+
+3.**孟维琦**,宋冬然,郭达辉,刘笑. 国家层面综合能源系统建模工具及方法综述[C]//.2022[中南大学第二届交叉学科研究生创新论坛工业智能化分论坛粘贴论文集](https://soa.csu.edu.cn/info/1032/5193.htm),2021. [*海报原文*](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/中南大学+2021级+硕士生+孟维琦+13371191243+电气工程+工业智能.pdf).
 
 
 

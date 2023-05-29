@@ -1,5 +1,5 @@
 ---
-title: "Instagram(高光集锦)"
+title: "高光集锦"
 date: 2022-05-06T13:50:21+08:00
 type : nolisting
 toc: true
@@ -10,7 +10,33 @@ toc: true
 
 
 
+
 # 证书照片, 本科 & 硕士, 2017-至今
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/国家奖学金.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/2021年中南大学自强之星.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/NECCS.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/数学建模国家三等奖.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/省赛三等奖.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/云南省政府奖学金.jpg">}}
+</div>
+
 
 <div class="row">
 <div class="col-12 col-md-6 col-lg-4 item">
@@ -25,9 +51,6 @@ toc: true
 {{<figure src="/image/证书照片/2017-2018下三好标兵.jpg">}}
 </div>
 
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2017演讲三等奖.jpg">}}
-</div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/2018-2019上特.jpg">}}
@@ -45,17 +68,6 @@ toc: true
 {{<figure src="/image/证书照片/2018-2019下突出才艺.jpg">}}
 </div>
 
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2018LED优胜.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2018优共.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2018知识竞赛二等奖.jpg">}}
-</div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/2019-2020上特.jpg">}}
@@ -70,15 +82,12 @@ toc: true
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/2020长电奖学金.jpg">}}
+</div>
+
+
+<div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/2019省三好.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2019数模优胜.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2019优共.jpg">}}
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
@@ -86,20 +95,24 @@ toc: true
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/2018优共.jpg">}}
+</div>
+
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/2019优共.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/2019数模优胜.jpg">}}
+</div>
+
+
+<div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/2020优共.jpg">}}
 </div>
 
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2020长电奖学金.jpg">}}
-</div>
 
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2021-2022国家奖学金.png">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2021年中南大学自强之星.jpg">}}
-</div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/2021疫情志愿者.jpg">}}
@@ -181,6 +194,27 @@ toc: true
 {{<figure src="/image/证书照片/志愿者合影.jpg">}}
 </div>
 </div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/2017演讲三等奖.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/2018知识竞赛二等奖.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/2018LED优胜.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/雷锋证书.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/雷锋纪念日志愿者.jpg">}}
+</div>
+
 
 
 # 个人生活照，2014年-2023年
@@ -477,7 +511,6 @@ toc: true
 </div>
 </div>
 
-
 # 狗子日常
 
 <div class="row">
@@ -523,6 +556,4 @@ toc: true
 # 乖小孩
 
 {{< bilibili BV1Ss4y1d7KY >}}
-
-
 
