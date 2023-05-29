@@ -205,7 +205,7 @@ toc: true
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/志愿者合影.jpg">}}
 </div>
-</div>
+
 
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/2017演讲三等奖.jpg">}}
@@ -226,7 +226,7 @@ toc: true
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/雷锋纪念日志愿者.png">}}
 </div>
-
+</div>
 
 
 
