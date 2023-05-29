@@ -13,6 +13,7 @@ toc: true
 
 # 证书照片, 本科 & 硕士, 2017-至今
 
+<div class="row">
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/国家奖学金.jpg">}}
 </div>
@@ -34,11 +35,22 @@ toc: true
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2021年中南大学自强之星.jpg">}}
+{{<figure src="/image/证书照片/校自强之星提名.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/校优秀团员.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/清华论坛.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/合影.jpg">}}
 </div>
 
 
-<div class="row">
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/2017-2018上甲.jpg">}}
 </div>
@@ -208,12 +220,14 @@ toc: true
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/雷锋证书.jpg">}}
+{{<figure src="/image/证书照片/雷锋证书.png">}}
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/雷锋纪念日志愿者.jpg">}}
+{{<figure src="/image/证书照片/雷锋纪念日志愿者.png">}}
 </div>
+
+
 
 
 
