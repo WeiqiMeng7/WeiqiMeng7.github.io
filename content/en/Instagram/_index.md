@@ -18,15 +18,11 @@ toc: true
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2021年中南大学自强之星.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/NECCS.jpg">}}
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/数学建模国家三等奖.jpg">}}
+{{<figure src="/image/证书照片/数学建模国赛三等奖.png">}}
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
@@ -35,6 +31,10 @@ toc: true
 
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/云南省政府奖学金.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/2021年中南大学自强之星.jpg">}}
 </div>
 
 
