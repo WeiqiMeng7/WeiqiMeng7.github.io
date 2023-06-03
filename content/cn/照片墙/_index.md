@@ -39,8 +39,21 @@ toc: true
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/校优秀团员.jpg">}}
+{{<figure src="/image/证书照片/省优秀毕业生.jpg">}}
 </div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/2019省三好.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/2020省三好.jpg">}}
+</div>
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/互联网+银奖.jpg">}}
+</div>
+
 
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/清华论坛.jpg">}}
@@ -50,6 +63,10 @@ toc: true
 {{<figure src="/image/证书照片/校优秀学生.jpg">}}
 </div>
 
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/校优秀团员.jpg">}}
+</div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/2017-2018上甲.jpg">}}
@@ -98,13 +115,6 @@ toc: true
 </div>
 
 
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2019省三好.jpg">}}
-</div>
-
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/2020省三好.jpg">}}
-</div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/2018优共.jpg">}}
@@ -125,18 +135,14 @@ toc: true
 </div>
 
 
-
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/2021疫情志愿者.jpg">}}
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/答辩1.jpg">}}
+{{<figure src="/image/证书照片/暑期学校结业证书.jpg">}}
 </div>
 
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/答辩2.jpg">}}
-</div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/二级C语言.png">}}
@@ -147,16 +153,20 @@ toc: true
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/互联网+银奖.jpg">}}
+{{<figure src="/image/证书照片/三级网络技术.png">}}
 </div>
+
+
+<div class="col-12 col-md-6 col-lg-4 item">
+{{<figure src="/image/证书照片/答辩2.jpg">}}
+</div>
+
 
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/抗击疫情志愿者.jpg">}}
 </div>
 
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/录取通知书.jpg">}}
-</div>
+
 
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/青年之星.jpg">}}
@@ -166,9 +176,6 @@ toc: true
 {{<figure src="/image/证书照片/青年之星答辩.jpg">}}
 </div>
 
-<div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/三级网络技术.png">}}
-</div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
 {{<figure src="/image/证书照片/生活委员.jpg">}}
