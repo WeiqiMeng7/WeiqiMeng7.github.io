@@ -47,7 +47,7 @@ toc: true
 </div>
 
 <div class="col-12 col-md-6 col-lg-4 item">
-{{<figure src="/image/证书照片/合影.jpg">}}
+{{<figure src="/image/证书照片/校优秀学生.jpg">}}
 </div>
 
 
