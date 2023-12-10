@@ -33,10 +33,16 @@ toc: true
       5. 华中科技大学、中南大学、北京酷鲨科技有限公司、上海拜安传感技术有限公司，QT多智能体虚拟声呐阵列技术应用验证（协助），2021；
 
 
+### Project Lists（updated on Dec 10, 2023）
 
+<div class="row">
+<div class="col-12 col-md-12 col-lg-12 item">
+**1. Project List**
+{{<figure src="/image/简历/PublicationList.png">}}
+</div>
+</div>
 
 
 ###  科研项目列表 (PDF)
 [github repository](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/Training-lnternship.pdf) | data | pdf
-
 

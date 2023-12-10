@@ -34,5 +34,14 @@ toc: true
 
 
 
+### Academic Projects List（updated on Dec 10, 2023）
+
+<div class="row">
+<div class="col-12 col-md-12 col-lg-12 item">
+**1. Project Lists**
+{{<figure src="/image/简历/PublicationList.png">}}
+</div>
+</div>
+
 ###  Academic Projects List (PDF)
 [github repository](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/Training-lnternship.pdf) | data | pdf

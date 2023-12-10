@@ -10,6 +10,12 @@ toc: true
 <div class="col-12 col-md-12 col-lg-12 item">
 {{<figure src="/image/简历/1-CV-Chinese-页面_1.png">}}
 {{<figure src="/image/简历/1-CV-Chinese-页面_2.png">}}
+**2. English**
+{{<figure src="/image/简历/1-CV-English_页面_1.png">}}
+{{<figure src="/image/简历/1-CV-English_页面_2.png">}}
+{{<figure src="/image/简历/1-CV-English_页面_3.png">}}
+**3. Honors and Prizes**
+{{<figure src="/image/简历/PrizeandAwards.png">}}
 </div>
 </div>
 

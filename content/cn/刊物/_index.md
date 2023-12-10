@@ -68,8 +68,13 @@ Nationality: Chinese
 {{<figure src="/image/简历/1-CV-English_页面_1.png">}}
 {{<figure src="/image/简历/1-CV-English_页面_2.png">}}
 {{<figure src="/image/简历/1-CV-English_页面_3.png">}}
+**3. Honors and Prizes**
+{{<figure src="/image/简历/PrizeandAwards.png">}}
+**4. Project List**
+{{<figure src="/image/简历/PublicationList.png">}}
 </div>
 </div>
+
 
 
 #### 学术简历
