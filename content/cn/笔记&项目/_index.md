@@ -38,7 +38,7 @@ toc: true
 <div class="row">
 <div class="col-12 col-md-12 col-lg-12 item">
 **1. Project List**
-{{<figure src="/image/简历/PublicationList.png">}}
+{{<figure src="/image/简历/Training-lnternship.png">}}
 </div>
 </div>
 
