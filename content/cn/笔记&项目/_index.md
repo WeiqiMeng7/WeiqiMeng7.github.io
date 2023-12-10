@@ -35,5 +35,8 @@ toc: true
 
 
 
-[github repository](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/1-s2.0-S0196890422006598-main.pdf) | data | pdf
+
+###  科研项目列表 (PDF)
+[github repository](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/Training-lnternship.pdf) | data | pdf
+
 

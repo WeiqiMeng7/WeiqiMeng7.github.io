@@ -16,7 +16,7 @@ toc: true
 ## 我的联系方式
 ### 邮箱
 
-- 目前在国内最常用的邮箱：mengweiqi7@163.com
+- 目前在国内最常用的邮箱：mengweiqi7@gmail.com
 
 - 每天会查看的学校邮箱：mengweiqi@csu.edu.cn
 
