@@ -43,7 +43,7 @@ Energy System Optimization, Active Distribution Networks, Electric Vehicles, Ene
 [*Wechat Article*](https://mp.weixin.qq.com/s/0gndUcVSP0wgPOLVeHFV7w).
 [Offical certificate](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/Acceptance-Certificate-electronics-2241628.pdf).
 
-[3] **W Meng**, D Song, L Huang, X Chen, J Yang, M Dong, M. Talaat. A Bi-Level Optimization Strategy for Electric Vehicle Retailers Based on Robust Pricing and Hybrid Demand Response. Energy, JCR **Q1**, **IF: 9.0**. **2023**. (Has been accepted, awaiting online publication)
+[3] **W Meng**, D Song, L Huang, X Chen, J Yang, M Dong, M. Talaat. A Bi-Level Optimization Strategy for Electric Vehicle Retailers Based on Robust Pricing and Hybrid Demand Response. Energy, JCR **Q1**, **IF: 9.0**. **2023**; 129913. https://doi.org/10.1016/j.energy.2023.129913.
 
 [4] **W Meng**, D Song, L Huang, X Chen, J Yang, M Dong, M. Talaat, M.H. Elkholy. Distributed Energy Management of Electric Vehicle Charging Stations Based on Hierarchical Pricing Mechanism and Aggregate Feasible Regions. Energy, JCR **Q1**, **IF: 9.0**. **2023**. (Major revisions have been submitted, waiting for the acceptance result).
 
