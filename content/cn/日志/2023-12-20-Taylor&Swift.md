@@ -156,7 +156,7 @@ I hope you know how proud I am to share this day with you. We’re doing this to
 
 ## 视频链接
 
-{{< youtube id="UdR_mC7Ifk4" autoplay="true" >}}
+{{< youtube UdR_mC7Ifk4 >}}
 
 
 
