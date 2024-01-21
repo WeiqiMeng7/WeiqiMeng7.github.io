@@ -17,7 +17,7 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
     weight = 1
 [[menu.en]]
     name = "CV"
-    url = "https://WeiqiMeng7.github.io/file/1-CV-English.pdf"
+    url = "https://1drv.ms/b/s!AuCHRicCO5iA5gt96Er2MxUl0ofR?e=m0Vdr5"
     weight = 2
 [[menu.en]]
     name = "Publications"
