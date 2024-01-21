@@ -37,15 +37,22 @@ Energy System Optimization, Active Distribution Networks, Electric Vehicles, Ene
 ## Publications
 
 ### International  Journal Papers: 
-[1] Song D, **Meng W**, Dong M, Yang J, Wang J, Chen X, et al. A critical survey of integrated energy system: Summaries, methodologies and analysis. Energy Conversion and Management, JCR **Q1**, **IF: 10.4**. **2022**;266:115863. https://doi.org/10.1016/j.enconman.2022.115863 . [*ECM Official Certificate*](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/1-s2.0-S0196890422006598-main.pdf). 
+[1] **W Meng**, D Song, L Huang, X Chen, J Yang, M Dong, M. Talaat, M.H. Elkholy. Distributed Energy Management of Electric Vehicle Charging Stations Based on Hierarchical Pricing Mechanism and Aggregate Feasible Regions. Energy, JCR **Q1**, **IF: 9.0**. **2024**; 130332. https://doi.org/10.1016/j.energy.2024.130332. [Journal Pre-proof](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/1-s2.0-S0360544224001038-main-0.pdf).
 
-[2] **Meng W**, Song D, Deng X, Dong M, Yang J, Rizk-Allah RM, et al. Dynamic Optimal Power Flow of Active Distribution Network Based on LSOCR and Its Application Scenarios. Electronics, JCR **Q3**, **IF: 2.9**. **2023**;12(7):1530. https://doi.org/10.3390/electronics12071530 .[*Electronics official certificate*](https://www.mdpi.com/2211860). 
+
+[2] **W Meng**, D Song, L Huang, X Chen, J Yang, M Dong, M. Talaat. A Bi-Level Optimization Strategy for Electric Vehicle Retailers Based on Robust Pricing and Hybrid Demand Response. Energy, JCR **Q1**, **IF: 9.0**. **2023**; 129913. https://doi.org/10.1016/j.energy.2023.129913. [Journal Pre-proof](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/1-s2.0-S0360544223033078-main-0.pdf).
+
+
+[3] **Meng W**, Song D, Deng X, Dong M, Yang J, Rizk-Allah RM, et al. Dynamic Optimal Power Flow of Active Distribution Network Based on LSOCR and Its Application Scenarios. Electronics, JCR **Q3**, **IF: 2.9**. **2023**;12(7):1530. https://doi.org/10.3390/electronics12071530 .[*Electronics official certificate*](https://www.mdpi.com/2211860). 
 [*Wechat Article*](https://mp.weixin.qq.com/s/0gndUcVSP0wgPOLVeHFV7w).
 [Offical certificate](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/Acceptance-Certificate-electronics-2241628.pdf).
 
-[3] **W Meng**, D Song, L Huang, X Chen, J Yang, M Dong, M. Talaat. A Bi-Level Optimization Strategy for Electric Vehicle Retailers Based on Robust Pricing and Hybrid Demand Response. Energy, JCR **Q1**, **IF: 9.0**. **2023**; 129913. https://doi.org/10.1016/j.energy.2023.129913.
+[4] Song D, **Meng W**, Dong M, Yang J, Wang J, Chen X, et al. A critical survey of integrated energy system: Summaries, methodologies and analysis. Energy Conversion and Management, JCR **Q1**, **IF: 10.4**. **2022**;266:115863. https://doi.org/10.1016/j.enconman.2022.115863 . [*ECM Official Certificate*](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/1-s2.0-S0196890422006598-main.pdf). 
 
-[4] **W Meng**, D Song, L Huang, X Chen, J Yang, M Dong, M. Talaat, M.H. Elkholy. Distributed Energy Management of Electric Vehicle Charging Stations Based on Hierarchical Pricing Mechanism and Aggregate Feasible Regions. Energy, JCR **Q1**, **IF: 9.0**. **2023**. (Major revisions have been submitted, waiting for the acceptance result).
+
+
+
+
 
 ### Conference Paper: 
 [1] **W. Meng** et al., "Robust pricing strategy with EV retailers considering the uncertainty of EVs and electricity market," Tsinghua-IET Electrical Engineering Academic Forum 2023, Beijing, China, **2023**, pp. 27-33, doi: https://doi.org/10.1049/icp.2023.1827 .[Poster](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/海报_孟维琦_eeaf_20230405001.pdf). 
