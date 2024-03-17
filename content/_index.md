@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src="/image/Myself.jpg" caption="Mount Emei Scenic Area, including Leshan Grand Buddha Scenic Area. Photo by my sister in December 2022." width="520">}}
+{{<figure src="/image/Myself.jpg" caption="Taken in Beijing, China, in February 2024." width="520">}}
 
 
 Welcome to my homepage! My name is Weiqi Meng (Archie Meng). I am currently a third-year master's student in the [School of Automation at Central South University](https://soa.csu.edu.cn/), supervised by [Prof. Dongran Song](https://faculty.csu.edu.cn/songdongran1/zh_CN/index.htm), majoring in Electrical Engineering . Prior to embarking on my graduate study, I obtained a B.E. degree in Electrical Engineering and Automation from the [Faculty of Electrical Engineering at Kunming University of Science and Technology](https://pwee.kmust.edu.cn/index.htm) in 2021, advised by [Prof. Bo Yang](https://pwee.kmust.edu.cn/info/1036/1143.htm).
