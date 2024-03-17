@@ -56,9 +56,11 @@ toc: true
 
 
 
+## 写在最后
 
+独喜谭松韵，00后忠实果子；喜欢街拍摄影，偶尔挂镜静止看世界；热衷高分影视作品，挑战豆瓣Top 100，好作品要品n遍；偏爱抒情歌，李健、王菲、房东的猫、告五人和花粥等等等…，数不清啦！内心从未熄灭过作家笔下的诗和远方，鲁迅和杨绛先生，即便面包不大，我有故事你有酒吗？学术路上，执着于过程的美好而非结果，坚信所有都会潜移默化地改变自己，感兴趣的事情也会加个小班但拒绝无意义内耗；认真帮助和热爱身边的人！执着穷游和吃吃喝喝，跟着大自然，带着人和包走天下！偶尔关心一下时代形势，尽量不让世界深刻改变自己；散漫时候打羽球和锻炼来提升自己，自带吃货属性；
 
-
+I particularly admire Tan Songyun, a loyal fan of the post-00s generation. I enjoy street photography, occasionally pausing to observe the world through the lens. Passionate about high-rated films and TV shows, I'm on a quest to conquer the Douban Top 100, believing that good works merit multiple viewings. I have a soft spot for lyrical songs by artists like Li Jian, Faye Wong, The Landlord's Cat, Accuse Five, and Hua Zhou, among others... too many to count! My heart has never ceased to harbor the poetry and distant lands found in authors' writings, like Lu Xun and Mr. Yang Jiang; even if the bread is small, do you have wine to share with my stories? On the academic path, I cherish the beauty of the process over the outcome, firmly believing that everything will subtly change me, and I'm open to joining small groups for interests but refuse meaningless inner conflicts. I'm committed to genuinely helping and loving those around me! Devoted to budget traveling and enjoying food and drink, I follow nature, carrying people and bags around the world! Occasionally, I pay attention to current affairs, striving not to let the world change me profoundly; in leisure times, playing badminton and exercising to improve myself, naturally a food lover.
 
 
 
