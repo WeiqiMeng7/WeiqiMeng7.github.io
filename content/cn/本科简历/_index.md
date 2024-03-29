@@ -42,8 +42,7 @@ Energy System Optimization, Active Distribution Networks, Electric Vehicles, Ene
 
 [2] **W Meng**, D Song, L Huang, X Chen, J Yang, M Dong, M. Talaat. A Bi-Level Optimization Strategy for Electric Vehicle Retailers Based on Robust Pricing and Hybrid Demand Response. Energy, JCR **Q1**, **IF: 9.0**. **2023**; 129913. https://doi.org/10.1016/j.energy.2023.129913. [Journal Pre-proof](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/1-s2.0-S0360544223033078-main-0.pdf).
 
-
-[3] **Meng W**, Song D, Deng X, Dong M, Yang J, Rizk-Allah RM, et al. Dynamic Optimal Power Flow of Active Distribution Network Based on LSOCR and Its Application Scenarios. Electronics, JCR **Q3**, **IF: 2.9**. **2023**;12(7):1530. https://doi.org/10.3390/electronics12071530 .[*Electronics official certificate*](https://www.mdpi.com/2211860). 
+[3] **Meng W**, Song D, Deng X, Dong M, Yang J, Rizk-Allah RM, et al. Dynamic Optimal Power Flow of Active Distribution Network Based on LSOCR and Its Application Scenarios. Electronics, JCR **Q2**, **IF: 2.9**. **2023**;12(7):1530. https://doi.org/10.3390/electronics12071530 .[*Electronics official certificate*](https://www.mdpi.com/2211860). 
 [*Wechat Article*](https://mp.weixin.qq.com/s/0gndUcVSP0wgPOLVeHFV7w).
 [Offical certificate](https://github.com/weiqimeng7/weiqimeng7.github.io/blob/master/file/Acceptance-Certificate-electronics-2241628.pdf).
 
