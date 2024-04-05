@@ -46,7 +46,7 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
 
 [[menu.cn]]
     name = "简历"
-    url = "/cn/本科简历/"
+    url = "https://1drv.ms/b/s!AuCHRicCO5iA5kupSKtq_TWMnWap?e=a9emjq"
     weight = 2
 
 [[menu.cn]]
