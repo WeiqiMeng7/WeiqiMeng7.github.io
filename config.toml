@@ -37,38 +37,30 @@ Blogs = "/Blogs/:year/:month/:day/:slug/"
     weight = 6
 [[menu.en]]
     name = "中文"
-    url = "/cn/日志/"
+    url = "/cn/关于/"
     weight = 7
-
+[[menu.cn]]
+    name = "关于"
+    url = "/cn/关于/"
+    weight = 1
 
 [[menu.cn]]
     name = "简历"
     url = "/cn/本科简历/"
-    weight = 1
-[[menu.cn]]
-    name = "刊物"
-    url = "/cn/刊物/"
-    weight = 2 
-[[menu.cn]]
-    name = "笔记&项目"
-    url = "/cn/笔记&项目/"
-    weight = 3 
-[[menu.cn]]
-    name = "关于"
-    url = "/cn/关于/"
-    weight = 4
+    weight = 2
+
 [[menu.cn]]
     name = "日志"
     url = "/cn/日志/"
-    weight = 5
+    weight = 3
 [[menu.cn]]
     name = "照片墙"
     url = "/cn/照片墙/"
-    weight = 6
+    weight = 4
 [[menu.cn]]
     name = "英文"
     url = "/"
-    weight = 7
+    weight = 5
 
 [params]
     description = "Peronal website of Your Name"
