@@ -18,6 +18,8 @@ tags:
 
 
 
+
+
 # Why chinese spring festival gala is becoming more and more boring?
 
 ## Bilibili vedio
@@ -29,5 +31,4 @@ tags:
 # summary
 
 From the Spring Festival Gala directors' perspective, the funny shows in the Spring Festival Gala are like smartphones. You're a phone, that's true, but the function I care about the least is making calls. 
-
 
