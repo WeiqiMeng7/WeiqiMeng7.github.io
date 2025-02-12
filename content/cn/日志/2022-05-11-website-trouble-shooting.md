@@ -150,7 +150,7 @@ The ubuntu-18.04 environment is deprecated, consider switching to ubuntu-20.04(u
 
       依然是在params.logo这里，修改alt这行
 
-4. 高级绘图示例：
+5. 高级绘图示例：
 
       ```mermaid
       gantt
@@ -209,8 +209,26 @@ The ubuntu-18.04 environment is deprecated, consider switching to ubuntu-20.04(u
       
       
       
+6. 如果出现使用git获取github上代码时报错：OpenSSL SSL_read: Connection was reset, errno 10054
+
+   (可以参考某blog中方法修改文件内容（If it were me, I’d try to upgrade everything and see what happens. In .github/workflows/gh-pages.yml…），[vpn](https://discourse.gohugo.io/t/build-failed-because-it-uses-a-deprecated-version-of-actions-upload-artifact-v3/53335)依次修改即可解决问题)
+
+   **参考网上的回答，成功解决问题：**
+
+| Old value | New value |
+| --- | --- |
+| actions/cache@v3 | actions/cache@v4 |
+| actions/configure-pages@v3 | actions/configure-pages@v5 |
+| actions/deploy-pages@v2 | actions/deploy-pages@v4 |
+| actions/upload-pages-artifact@v2 | actions/upload-pages-artifact@v3 |
+| peaceiris/actions-hugo@v2 | peaceiris/actions-hugo@v3 |
       
-      
+     
+7. How to develope academic personal website?
+   可以参考某MIT中open-source repository [academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+   Detailed Chinese version of instructions can be found in this csdn blog: [手把手教你用github制作学术个人主页（学者必备）](https://blog.csdn.net/qd1813100174/article/details/128604858)
+     Noted: 注意：_config.yml文件中的"url: username.github.io"这个地方要修改，不然你的照片会无法显示（笔者在这里踩坑了快一个小时）
+     
       
 
 
